@@ -74,14 +74,11 @@ Absolutely. Choose between `Published` or `Draft` before creating the pages.
 
 ## 🖼️ Screenshots
 
-1. **Plugin Activation Screen**  
-   ![Plugin Activation](assets/screenshot-1.png)
+1. **Page Creator Interface**  
+   ![Page Creator Form](assets/screenshot-1.png)
 
-2. **Page Creator Interface**  
-   ![Page Creator Form](assets/screenshot-2.png)
-
-3. **Bulk Page Creation in Action**  
-   ![Admin Panel View](assets/screenshot-3.png)
+2. **Bulk Page Creation in Action**  
+   ![Admin Panel View success message](assets/screenshot-2.png)
 
 ---
 
