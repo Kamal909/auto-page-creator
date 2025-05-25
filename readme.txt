@@ -75,10 +75,10 @@ Absolutely. Choose between `Published` or `Draft` before creating the pages.
 ## 🖼️ Screenshots
 
 1. **Page Creator Interface**  
-   ![Page Creator Form](assets/screenshot-2.png)
+   ![Page Creator Form](assets/screenshot-1.png)
 
 2. **Bulk Page Creation in Action**  
-   ![Admin Panel View success message](assets/screenshot-3.png)
+   ![Admin Panel View success message](assets/screenshot-2.png)
 
 ---
 
